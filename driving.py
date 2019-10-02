@@ -12,3 +12,5 @@ elif country == 'UNITED STATES':
 		print("You can take a licence after the driving exam.")
 	else:
 		print("You can't take a licence cause your age.")
+else:
+	print("You only write down China or United States.")
